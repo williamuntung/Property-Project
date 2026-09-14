@@ -62,10 +62,3 @@ Property-Project
 
 ## Lisensi
 
-
-
-## ⚠️ Batasan & Pengembangan Lanjutan
-
-
-
-## 📄 Lisensi
