@@ -1,2 +1,2 @@
-./data/raw/all_property_urls.json
-./scrapper/test.py
+data/raw/all_property_urls.json
+scrapper/test.py
