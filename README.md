@@ -25,7 +25,7 @@ yang tidak terstruktur, hingga model yang bisa memberi rekomendasi actionable.
 
 ## Sumber Data
 
-Data diambil dari listing publik [Rumah123](https://www.rumah123.com) melalui sitemap resmi 
+Data diambil dari listing publik [99.co](https://www.99.co/) melalui sitemap resmi 
 mereka, mengikuti aturan `robots.txt` situs (hanya mengakses halaman yang diizinkan, 
 menghindari parameter query yang di-*disallow*, dan menerapkan jeda antar request).
 
