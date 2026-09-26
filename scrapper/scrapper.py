@@ -65,7 +65,7 @@ def get_all_property_urls(index_url, cache_file="C:/Project/Deep_Learning_Projec
 
 
 # ======================
-# TAHAP 2: Scrape detail listing (JSON-LD Product + Breadcrumb, khusus 99.co)
+# TAHAP 2: Scrape detail listing 
 # ======================
 
 def extract_number_flexible(patterns, text):
