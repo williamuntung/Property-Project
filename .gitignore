@@ -1,2 +1,5 @@
 data/raw/all_property_urls.json
 scrapper/test.py
+__pycache__/
+*.pyc
+*.pyo
